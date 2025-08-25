@@ -10,6 +10,7 @@ export default function Home() {
       <FeaturedArticles />
       <Categories />
       <Newsletter />
+      <div className="h-20">collaberated by bishnu</div>
     </main>
   );
 }
