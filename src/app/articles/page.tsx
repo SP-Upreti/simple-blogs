@@ -127,6 +127,26 @@ const Articles = () => {
                                 </SelectContent>
                             </Select>
                         </div>
+
+
+                        {/* <div className="flex items-center gap-2">
+                            <Select>
+                                <SelectTrigger >
+                                    <SelectValue placeholder="Select Category" />
+                                </SelectTrigger>
+                                <SelectContent>
+                                    <SelectGroup>
+                                        <SelectLabel>Technology</SelectLabel>
+                                        <SelectItem value="apple">Travolgu</SelectItem>
+                                        <SelectItem value="kera">Entertainment</SelectItem>
+                                        <SelectItem value="blueberry">Programming</SelectItem>
+                                        <SelectItem value="grapes">Lifestyle</SelectItem>
+                                        <SelectItem value="pineapple">Cooking oil</SelectItem>
+                                    </SelectGroup>
+                                </SelectContent>
+                            </Select>
+                        </div> */}
+
                     </div>
                 </div>
             </section>
